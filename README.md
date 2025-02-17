@@ -14,7 +14,7 @@ The challenge is to develop a multi-step form that allows users to:
 
 ## 🚀 Live Demo
 
-You can access the deployed project here: [Live Demo Link](#) (Replace with actual URL)
+You can access the deployed project here: [https://timepass-frontend.vercel.app/](#)
 
 ## 📂 Project Setup
 
@@ -22,7 +22,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/timepass-frontend.git
+   git clone https://github.com/hzratali/timepass-frontend.git
    ```
 2. Navigate to the project folder:
    ```sh
@@ -34,7 +34,7 @@ To run the project locally, follow these steps:
    ```
 4. Start the development server:
    ```sh
-   npm start
+   npm run dev
    ```
 
 ## 🛠️ Technologies Used
@@ -51,19 +51,8 @@ To run the project locally, follow these steps:
 
 ## 📤 Deployment
 
-The project is hosted on [Vercel/Netlify](#) (Replace with actual URL).
-
-## 📄 Submission
-
-Submit your solution via email to **sourav@simpleviralgames.com** with:
-
-- GitHub repository link.
-- Deployed project link.
-
-## 📝 License
-
-This project is for educational purposes and follows open-source guidelines.
+The project is hosted on [Vercel](#https://vercel.com/).
 
 ---
 
-Made with ❤️ by [Your Name](#) (Replace with your details)
+Made with ❤️ by [Hazrat Ali](https://hazrat.me/)
